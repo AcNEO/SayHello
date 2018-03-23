@@ -9,6 +9,7 @@ class Main extends PluginBase implements Listener {
 
 public function onLoad() {
 $this->getServer()->getLogger()->notice("This Is A Very Nano-Plugin That Do A Simple Hello Player");
+$this->getServer()->getPluginManager()->registerEvents($this,$this);
 }
 
 public function onJoin(PlayerJoinEvent $ev) {
