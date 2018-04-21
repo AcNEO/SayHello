@@ -21,4 +21,4 @@ hello_text: "[BOT] Hello "
 
 
 # credits
-- hmm??
+- AcNEO
