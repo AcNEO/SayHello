@@ -18,3 +18,7 @@ hello_text: "[BOT] Hello "
 # cons (for now)
 - right now only support for one message.
 - cant put where the player name should be add..
+
+
+# credits
+- hmm??
